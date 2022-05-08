@@ -1,0 +1,30 @@
+
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 600px;
+    background-image: url("https://images.unsplash.com/photo-1559825481-12a05cc00344?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80");
+    
+    background-color: #000000;
+    
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #ffffff;
+    padding: 15px;
+    top: 0px;
+  }
+  h2 {
+    text-align: center;
+    background: transparent;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+     font-size: 13pt;
+  }
+  .botao01 {
+    color: #000000;
+    text-decoration: none;
+    margin-top: 80px;
+  }
